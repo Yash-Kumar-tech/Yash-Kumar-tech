@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Yash-Kumar-tech/Yash-Kumar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Yash Sonkar</h1>
+<h2 align="center">I work on Android apps and AI/ML</h2>
 
-Here are some ideas to get you started:
+## About Me:
+I work on Android apps (using Jetpack Compose), cross-platform apps (using Flutter) and AI/ML projects.<br>You can reach me at yash03813@gmail.com<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack:
+* Java/Kotlin/Dart
+* Python
+* Rust
+* C/C++
+* Android
+* Jetpack Compose
+* Firebase
+* Jupyter Notebooks
